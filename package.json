@@ -5,8 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-mupdf",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "repository": {
